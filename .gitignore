@@ -1,0 +1,24 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# BMAD outputs (optional: uncomment if you don't want to track)
+# _bmad-output/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local

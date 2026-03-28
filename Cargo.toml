@@ -1,0 +1,17 @@
+[package]
+name = "trust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Luminexo <luminexo.dev@gmail.com>"]
+license = "MIT"
+description = "A shared terminal environment for pair programming with AI agents"
+repository = "https://github.com/luminexo/trust"
+readme = "README.md"
+keywords = ["terminal", "pair-programming", "ai", "collaboration"]
+categories = ["development-tools", "command-line-interface"]
+
+[dependencies]
+# Core dependencies will be added during implementation
+
+[dev-dependencies]
+# Test dependencies will be added during implementation
